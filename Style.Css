@@ -1,0 +1,71 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    font-family: "Raleway", "Narrow-family";
+}
+
+.fondo{
+    background-color:#E9EDC9;
+}
+ul{
+    list-style-type:none;
+    background-color:#F5EEC8;
+    padding: 25px;
+    font-size: 25px;
+}
+.Item-menu{
+display: inline;
+padding: 20px;
+}
+.Titulo{
+    text-align: center;
+    font-size: 75px;
+    margin:50px;
+}
+.carousel-inner{
+    max-width: line;
+    max-height:400px;
+}
+
+.Nosotros{
+    text-align: center;
+    font-size: 50px;
+    margin:50px;
+}
+p{
+    margin:100px;
+    font-size: 20px;
+    text-align: justify
+}
+.Catalogo{
+    text-align: center;
+    font-size: 50px;
+    margin:50px;
+}
+.Card{
+    width: 18rem;
+    display: flex;
+    /*flex-direction: column;*/
+    justify-content: center;
+    align-items: center;
+    height: 100px;
+}
+section{
+    gap:25px; 
+}
+
+.Img-catalogo{
+    width:100%;
+}
+.Tips{
+    text-align: center;
+    font-size: 50px;
+    margin:50px;
+}
+
+.Contacto{
+    text-align: center;
+    font-size: 50px;
+    margin:50px;
+}
